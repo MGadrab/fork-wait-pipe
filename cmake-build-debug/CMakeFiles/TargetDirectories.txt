@@ -1,0 +1,3 @@
+/Users/mohammedg/Documents/GitHub/fork-wait-pipe/cmake-build-debug/CMakeFiles/fork_wait_pipe.dir
+/Users/mohammedg/Documents/GitHub/fork-wait-pipe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mohammedg/Documents/GitHub/fork-wait-pipe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
