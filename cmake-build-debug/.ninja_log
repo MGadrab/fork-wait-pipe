@@ -1,3 +1,15 @@
 # ninja log v5
 0	634	1743797200045131266	CMakeFiles/fork_wait_pipe.dir/main.cpp.o	4fd6cab31a218d28
 635	681	1743797200095739984	fork_wait_pipe	ddeec4a8741cad28
+11	544	1743798332713119314	CMakeFiles/fork_wait_pipe.dir/main.cpp.o	4fd6cab31a218d28
+544	597	1743798332768836701	fork_wait_pipe	ddeec4a8741cad28
+3	497	1743798637011701430	CMakeFiles/fork_wait_pipe.dir/main.cpp.o	4fd6cab31a218d28
+497	544	1743798637062261941	fork_wait_pipe	ddeec4a8741cad28
+3	457	1743798672603296523	CMakeFiles/fork_wait_pipe.dir/main.cpp.o	4fd6cab31a218d28
+457	502	1743798672651060521	fork_wait_pipe	ddeec4a8741cad28
+4	418	1743798688726554289	CMakeFiles/fork_wait_pipe.dir/main.cpp.o	4fd6cab31a218d28
+418	463	1743798688773715354	fork_wait_pipe	ddeec4a8741cad28
+3	455	1743798709099469791	CMakeFiles/fork_wait_pipe.dir/main.cpp.o	4fd6cab31a218d28
+455	499	1743798709147556485	fork_wait_pipe	ddeec4a8741cad28
+3	516	1743799209345058378	CMakeFiles/fork_wait_pipe.dir/main.cpp.o	4fd6cab31a218d28
+516	564	1743799209396704470	fork_wait_pipe	ddeec4a8741cad28
