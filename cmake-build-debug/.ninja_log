@@ -1,13 +1,13 @@
 # ninja log v5
 0	543	1743961634583345175	CMakeFiles/fork_wait_pipe.dir/usage_of_pipes&forks.cpp.o	b093b0b0a120234b
-0	63	1743963089822957164	build.ninja	f41485c2810e8ee7
-398	441	1743969323671932613	fork_wait_pipe	ddeec4a8741cad28
-10	452	1743962119638123212	CMakeFiles/fork_wait_pipe.dir/Pipe.cpp.o	2b8dfaeb57a44eb1
-3	398	1743969323627120676	CMakeFiles/fork_wait_pipe.dir/main.cpp.o	4fd6cab31a218d28
-3	63	1743962940651656571	CMakeFiles/fork_wait_pipe.dir/usage_of_pipes_forks.cpp.o	67d3ea7ea1d6c2e0
-3	457	1743969558108014256	CMakeFiles/fork_wait_pipe.dir/main.cpp.o	4fd6cab31a218d28
-457	507	1743969558161941542	fork_wait_pipe	ddeec4a8741cad28
-3	399	1743969581286561907	CMakeFiles/fork_wait_pipe.dir/main.cpp.o	4fd6cab31a218d28
-399	440	1743969581329929345	fork_wait_pipe	ddeec4a8741cad28
-3	417	1743969590776557465	CMakeFiles/fork_wait_pipe.dir/main.cpp.o	4fd6cab31a218d28
+0	63	1744063884270525330	build.ninja	f41485c2810e8ee7
 417	477	1743969590839322734	fork_wait_pipe	ddeec4a8741cad28
+10	452	1743962119638123212	CMakeFiles/fork_wait_pipe.dir/Pipe.cpp.o	2b8dfaeb57a44eb1
+3	417	1743969590776557465	CMakeFiles/fork_wait_pipe.dir/main.cpp.o	4fd6cab31a218d28
+3	63	1743962940651656571	CMakeFiles/fork_wait_pipe.dir/usage_of_pipes_forks.cpp.o	67d3ea7ea1d6c2e0
+3	497	1744063958884311057	CMakeFiles/fork_wait_pipe.dir/main.cpp.o	4fd6cab31a218d28
+497	556	1744063958947412573	fork_wait_pipe	ddeec4a8741cad28
+6	333	1744063965428429770	CMakeFiles/fork_wait_pipe.dir/main.cpp.o	4fd6cab31a218d28
+333	363	1744063965460483677	fork_wait_pipe	ddeec4a8741cad28
+4	392	1744064486867372366	CMakeFiles/fork_wait_pipe.dir/main.cpp.o	4fd6cab31a218d28
+392	439	1744064486917694501	fork_wait_pipe	ddeec4a8741cad28

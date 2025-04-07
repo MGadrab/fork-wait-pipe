@@ -45,5 +45,6 @@ int Example_pipes() {
             return 4;
         }
     }
+    return 0;
 }
 #endif //FORK_WAIT_PIPE_PIPES_H

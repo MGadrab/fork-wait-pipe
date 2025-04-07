@@ -8,4 +8,5 @@ include_directories(.)
 add_executable(fork_wait_pipe
         main.cpp
         usage_of_pipes_forks.h
-        pipes.h)
+        pipes.h
+        FIFO.h)
